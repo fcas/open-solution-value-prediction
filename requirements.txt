@@ -7,5 +7,5 @@ lightgbm==2.1.1
 numpy==1.22.0
 pandas==0.22.0
 pyyaml>=4.2b1
-scikit_learn==0.19.1
+scikit_learn==1.5.0
 scipy==1.0.0
